@@ -157,10 +157,10 @@ Server → Data Import → Import from Self-Contained File
 
 ## Funcionalidades
 
-* ✔ CRUD completo de tarefas
-* ✔ Validação de dados no frontend e backend
-* ✔ Interface moderna com Tailwind CSS
-* ✔ Cards interativos com animação
-* ✔ Cores por status (pendente, iniciada, atrasada)
-* ✔ Modal de confirmação de exclusão
-* ✔ Navegação entre páginas (React Router)
+* CRUD completo de tarefas
+* Validação de dados no frontend e backend
+* Interface moderna com Tailwind CSS
+* Cards interativos com animação
+* Cores por status (pendente, iniciada, atrasada)
+* Modal de confirmação de exclusão
+* Navegação entre páginas (React Router)
