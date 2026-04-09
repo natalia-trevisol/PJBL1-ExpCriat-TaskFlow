@@ -11,7 +11,8 @@ Natália Moritani Trevisol
 ## Instituição
 
 Pontifícia Universidade Católica do Paraná (PUCPR)
-Disciplina: Experiência Criativa: Inovando Colaborativamente
+
+**Disciplina:** Experiência Criativa: Inovando Colaborativamente
 
 ---
 
